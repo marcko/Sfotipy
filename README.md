@@ -1,6 +1,6 @@
 Sfotipy
 =======
-
+.......lalal
 Este es un ejemplo de Github para la comunidad de #mejorandola
 
 Una vez instalas GIT, debes configurarlo:
